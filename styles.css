@@ -1,0 +1,54 @@
+#main {
+    background-color: rgb(200, 255, 0);
+    border: 4px solid;
+}
+img {
+    border: 10px solid;
+}
+video {
+    border: 10px solid;
+    margin: 20px;
+}
+.main1 {
+    color: aqua;
+}
+#pa{
+    width: 600px;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 4px solid;
+}
+#div{
+    background-color: beige;
+    width: 600px;
+    padding: 10px;
+    border: 4px solid;
+}
+#outer-box{
+    width: 600px;
+    height: 500px;
+    background-color: bisque;
+    border: 4px solid;
+}
+.iner-box{
+    width: 170px;
+    height: 150px;
+    background-color: thistle;
+    border: 4px solid;
+}
+#box1{
+    background-color: gold;
+    float: left;
+}
+#box2{
+    background-color: maroon;
+    float: left;
+}
+#box3{
+    background-color: khaki;
+    float: left;
+}
+#box4{
+    background-color: darkolivegreen;
+    float: left;
+}
